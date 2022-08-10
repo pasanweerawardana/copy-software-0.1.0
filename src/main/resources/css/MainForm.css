@@ -1,0 +1,12 @@
+*{
+    -fx-font-family: Ubuntu;
+}
+
+#btnSelectFile, #btnSelectDir{
+    -fx-background-color: #d000ff;
+    -fx-text-fill: #dc5c89;
+}
+
+#btnCopy{
+    -fx-background-color: #90ee1f;
+}
